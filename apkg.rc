@@ -1,0 +1,20 @@
+Package:	boot4shell
+Section: Apps
+Version:	0.0.1
+Packager:	Boot4shell
+Email:		support@boot4shell.com
+Homepage:	http://boot4shell.com
+Description: Boot4shell provides simple wait to run shell script on MyCloud boot
+AddonShowName:	Boot4shell
+Icon: boot4shell.png
+AddonIndexPage: index.html
+AddonUsedPort:
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+CenterType: 0
+UserControl: 1
+MinFWVer:
+MaxFWVer:
+IndividualFlag:

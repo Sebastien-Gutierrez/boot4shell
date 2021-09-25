@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <apkg>
+    <item>
+      <procudt_id>0</procudt_id>
+      <custom_id>20</custom_id>
+      <model_id>1</model_id>
+      <app_id>9</app_id>
+      <user_control>1</user_control>
+      <center_type>0</center_type>
+      <individual_flag>0</individual_flag>
+      <name>boot4shell</name>
+      <show>Boot4shell</show>
+      <enable>0</enable>
+      <version>0.0.1</version>
+      <date>20210925</date>
+      <inst_date/>
+      <path/>
+      <ps_name/>
+      <url>index.html</url>
+      <url_port/>
+      <apkg_version>2</apkg_version>
+      <packager>Boot4shell</packager>
+      <email>support@boot4shell.com</email>
+      <homepage>http://boot4shell.com</homepage>
+      <inst_depend/>
+      <inst_conflict/>
+      <start_depend/>
+      <start_conflict/>
+      <description>Boot4shell provides simple wait to run shell script on MyCloud boot</description>
+      <icon>boot4shell.png</icon>
+      <MinFWVer/>
+      <MaxFWVer/>
+      <Hidden/>
+    </item>
+  </apkg>
+</config>
