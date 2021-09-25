@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<config>   
+	<en-US><![CDATA[Boot4shell provides a simple way to start an shell script at the startup of the WD Cloud. Have a look at the boot.sh in the app folder named boot4shell ;-)...]]></en-US>
+	<cs-CZ><![CDATA[Boot4shell need translation :-)...]]></cs-CZ>
+	<de-DE><![CDATA[Boot4shell need translation :-)...]]></de-DE>
+	<es-ES><![CDATA[Boot4shell provides a simple way to start an shell script at the startup of the WD Cloud. Have a look at the boot.sh in the app folder named boot4shell ;-)...]]></es-ES>
+	<fr-FR><![CDATA[Boot4shell permet de démarrer, de façon simple, un ou plusieurs scripts shell au démarrage du cloud WD. Jettez un oeil au script boot.sh dans le dossier de l'application boot4shell ;-)...]]></fr-FR>
+	<hu-HU><![CDATA[Boot4shell need translation :-)...]]></hu-HU>
+	<it-IT><![CDATA[Boot4shell need translation :-)...]]></it-IT>
+	<ja-JP><![CDATA[Boot4shell need translation :-)...]]></ja-JP>
+	<ko-KR><![CDATA[Boot4shell need translation :-)...]]></ko-KR>
+	<no-NO><![CDATA[Boot4shell need translation :-)...]]></no-NO>
+	<nl-NL><![CDATA[Boot4shell need translation :-)...]]></nl-NL>
+	<pl-PL><![CDATA[Boot4shell need translation :-)...]]></pl-PL>
+	<pt-BR><![CDATA[Boot4shell need translation :-)...]]></pt-BR>   
+	<ru-RU><![CDATA[Boot4shell need translation :-)...]]></ru-RU>
+	<sv-SE><![CDATA[Boot4shell need translation :-)...]]></sv-SE>
+	<tr-TR><![CDATA[Boot4shell need translation :-)...]]></tr-TR>
+	<zh-CN><![CDATA[Boot4shell need translation :-)...]]></zh-CN>
+	<zh-TW><![CDATA[Boot4shell need translation :-)...]]></zh-TW> 
+</config>
